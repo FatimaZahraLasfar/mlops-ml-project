@@ -9,7 +9,10 @@ split:
 
 model:
   name: "logistic_regression"
+<<<<<<< HEAD
+  max_iter: 1000
+=======
   max_iter: 3000
-  C: 10
+>>>>>>> feature/max-iter
 
 artifacts_dir: "artifacts"
